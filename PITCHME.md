@@ -36,6 +36,8 @@
 ---
 ### Sphinxのドキュメントの日本語訳
 
+![sphinx-doc icon](https://www.sphinx-doc.org/en/master/_static/sphinxheader.png)
+
 [Sphinxの国際化機能](https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html)
 
 ---
