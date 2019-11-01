@@ -25,6 +25,11 @@
 ユーザー数増加 👏👏👏
 
 ---
+### GetFEM++のドキュメント
+
+[HomePage](http://getfem.org)
+
+---
 ### 🐂 GNU Free Documentation License
 
 - この文書を無断で複製してよい。
@@ -36,9 +41,8 @@
 ---
 ### Sphinxのドキュメントの日本語訳
 
-![sphinx-doc icon](https://www.sphinx-doc.org/en/master/_static/sphinxheader.png)
-
 [Sphinxの国際化機能](https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html)
+[翻訳結果](https://getfem.readthedocs.io/ja/latest/contents.html)
 
 ---
 ### 翻訳技術同人誌の特徴
