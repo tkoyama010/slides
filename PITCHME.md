@@ -19,6 +19,7 @@
 ### #GetFEM のツイート状況
 
 [同人誌頒布前 #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2018-01-01%20until%3A2018-12-31&src=typed_query&f=live)
+
 [同人誌頒布後 #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31&src=typed_query&f=live)
 
 ユーザー数は4倍近くに増加ただし、元のユーザー数は1人🙂(弊サークル調べ)
