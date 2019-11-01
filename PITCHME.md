@@ -42,6 +42,7 @@
 ### Sphinxのドキュメントの日本語訳
 
 [Sphinxの国際化機能](https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html)
+
 [翻訳結果](https://getfem.readthedocs.io/ja/latest/contents.html)
 
 ---
