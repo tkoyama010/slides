@@ -7,18 +7,19 @@
 @tkoyama010
 
 ---
-### お前誰よ👨‍💻
+### 🤓お前誰よ About @tkoyama010
 
-@tkoyama010 on Twitter and GitHub
-https://twitter.com/tkoyama010
+- @tkoyama010 on [Twitter](https://twitter.com/tkoyama010) and [GitHub](https://github.com/tkoyama010)
+
+- commit to [GetFEM++](https://github.com/getfem-doc/getfem.git)
+
+- 興味 [#numpy](https://twitter.com/search?q=%23numpy&src=hashtag_click) [#scipy](https://twitter.com/search?q=%23scipy&src=typed_query)
 
 ---
 ### マイナーライブラリ#GetFEMユーザー数倍増
 
-2018年のTwitter上での #GetFEM のツイート状況
-https://twitter.com/search?q=%23GetFEM%20since%3A2018-01-01%20until%3A2018-12-31&src=typed_query&f=live
-2018年のTwitter上での #GetFEM のツイート状況
-https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31&src=typed_query&f=live
+[2018年のTwitter上での #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2018-01-01%20until%3A2018-12-31&src=typed_query&f=live)
+[2018年のTwitter上での #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31&src=typed_query&f=live)
 
 ただし、元のユーザー数は1人🙂(弊サークル調べ)
 
@@ -32,9 +33,9 @@ https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31
 https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License より
 
 ---
-### Sphinxの国際化機能
+### Sphinxのドキュメントの日本語訳
 
-https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html
+[Sphinxの国際化機能](https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html)
 
 ---
 ### 翻訳技術同人誌の特徴
@@ -50,5 +51,7 @@ https://www.sphinx-doc.org/ja/master/usage/advanced/intl.html
 - ライセンスが問題なければオリジナル同人誌だけではなく翻訳同人誌という選択肢があります。
 - 翻訳する文書がSphinxで書かれている場合、国際化機能が便利です。
 - 翻訳同人誌にはオリジナル同人誌にはないメリットがあります。
+
+Enjoy translation!
 
 ---
