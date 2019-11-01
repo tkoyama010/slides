@@ -16,21 +16,21 @@
 - 興味 [#numpy](https://twitter.com/search?q=%23numpy&src=hashtag_click) [#scipy](https://twitter.com/search?q=%23scipy&src=typed_query)
 
 ---
-### マイナーライブラリ#GetFEMユーザー数倍増
+### #GetFEM のツイート状況
 
-[2018年のTwitter上での #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2018-01-01%20until%3A2018-12-31&src=typed_query&f=live)
-[2018年のTwitter上での #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31&src=typed_query&f=live)
+[同人誌頒布前 #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2018-01-01%20until%3A2018-12-31&src=typed_query&f=live)
+[同人誌頒布後 #GetFEM のツイート状況](https://twitter.com/search?q=%23GetFEM%20since%3A2019-01-01%20until%3A2019-12-31&src=typed_query&f=live)
 
-ただし、元のユーザー数は1人🙂(弊サークル調べ)
+ユーザー数は4倍近くに増加ただし、元のユーザー数は1人🙂(弊サークル調べ)
 
 ---
-### GNU Free Documentation License
+### 🐂 GNU Free Documentation License
 
 - この文書を無断で複製してよい。
 - この文書を無断で改変してよい。
 - この文書を無断で頒布・販売してよい。ただし、頒布を受けた者や購入した者に対して、上記の許可を与えなければならない。
 
-https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License より
+[Wikipedia](https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License)より
 
 ---
 ### Sphinxのドキュメントの日本語訳
