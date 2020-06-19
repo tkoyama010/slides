@@ -44,6 +44,13 @@ c = \sqrt{\dfrac{T}{\rho S}}
 ---
 ## 弦の波
 
+`\[
+h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
+\]`
+`\[
+h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
+\]`
+
 ---
 ## 弦の正弦振動
 
