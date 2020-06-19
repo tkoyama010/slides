@@ -26,6 +26,21 @@
 F_{x}\left(x\right) = -T
 \]`
 
+`\[
+F_{x}\left(x+\delta x\right) = -T
+\]`
+
+---
+## 弦の方程式
+
+`\[
+\dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2}
+\]`
+
+`\[
+c = \sqrt{\dfrac{T}{\rho S}}
+\]`
+
 ---
 ## 弦の波
 
