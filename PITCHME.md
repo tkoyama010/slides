@@ -98,6 +98,14 @@ c_{l\left( rod \right)} = \sqrt{\dfrac{Y}{\rho}} = \sqrt{\dfrac{\mu\left(3\lambd
 ---
 ## 棒の伸縮振動
 
+`\[
+u\left(0, t\right) = u\left(L, t\right) = 0
+\]`
+
+`\[
+u = a \sin \left(k_n x\right) \cos \left(k_n c_{l\left(rod\right)} t\right)
+\]`
+
 ---
 ## 棒の曲げ変形波
 
