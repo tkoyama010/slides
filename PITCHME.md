@@ -108,6 +108,12 @@ u = a \sin \left(k_n x\right) \cos \left(k_n c_{l\left(rod\right)} t\right)
 
 ---
 ## 棒の曲げ変形波
+`\[
+y = h\left(x, t\right)
+\]`
+`\[
+h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\omega t\right)
+\]`
 
 ---
 ## 棒の曲げ振動
