@@ -85,6 +85,16 @@ h = \sum^\infty_{n=0} b_n \sin\left(k_n\right)\sin\left(k_nct\right)
 ---
 ## 棒の伸縮波
 
+`\[
+P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
+\]`
+`\[
+\dfrac{\partial^2 u}{\partial t^2} = c_{l\left( rod \right)}^2 \dfrac{\partial u}{\partial x^2}
+\]`
+`\[
+c_{l\left( rod \right)} = \sqrt{\dfrac{Y}{\rho}} = \sqrt{\dfrac{\mu\left(3\lambda+2\mu\right)}{\left(\lambda+\mu\right)\rho}}
+\]`
+
 ---
 ## 棒の伸縮振動
 
