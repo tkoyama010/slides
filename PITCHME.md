@@ -69,6 +69,14 @@ h = a \sin\left(k_{n} x\right) \cos\left(k_{n} ct\right)
 ---
 ## 弦の任意波形の振動
 
+`\[
+a_n = \dfrac{2}{L} \int^L_0 f\left(x\right) \sin\left(k_{n} x\right)dx
+\]`
+
+`\[
+h = \sum^\infty_{n=0} b_n \sin\left(k_n\right)\sin\left(k_nct\right)
+\]`
+
 ---
 # 棒の波と振動
 
