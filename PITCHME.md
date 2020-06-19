@@ -54,6 +54,14 @@ h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\lef
 ---
 ## 弦の正弦振動
 
+`\[
+h\left\(0, t\right) = h\left(L, t\right) = 0
+\]`
+
+`\[
+h = a \sin\left(k_{n} x\right) \cos\left(k_{n} ct\right)
+\]`
+
 ---
 ## 弦の任意波形の振動
 
