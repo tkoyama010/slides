@@ -162,6 +162,14 @@ h = A\left(\left[\cos\left(k_nL\right) + \cosh\left(k_nL\right)\right]\left[\cos
 
 ### 両端が固定されている
 
+`\[
+h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
+\]`
+
+`\[
+h\left(L\right) = \left[\dfrac{dh}{dx}\right]_{x=L} = 0
+\]`
+
 ### 波数と振動数の固有値
 
 ### 最小固有値
