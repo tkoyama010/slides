@@ -124,6 +124,14 @@ h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\rig
 h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
 \]`
 
+`\[
+\left[\dfrac{d^2h}{dx^2}\right]_{x=0}=0
+\]`
+
+`\[
+\left[\dfrac{d^3h}{dx^3}\right]_{x=L}=0
+\]`
+
 ### 波数と振動数の固有値
 
 ### 最小固有値
