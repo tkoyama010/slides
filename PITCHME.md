@@ -144,6 +144,19 @@ h = \left(A\left(\cos\left(kx\right)-\cosh\left(kx\right)\right)+B\left(\sin\lef
 
 ### 最小固有値
 
+`\[
+k_{\min} = k_1 = \dfrac{1.88}{L}
+\]`
+
+`\[
+\omega_{\min} = bk_{\min}^2 = \dfrac{3.52}{L^2}\sqrt{\dfrac{B}{\rho S}}
+\]`
+
+`\[
+h = A\left(\left[\cos\left(k_nL\right) + \cosh\left(k_nL\right)\right]\left[\cos\left(k_nx\right)-\cosh\left(k_nx\right)\right]+\left[\sin\left(k_nL\right)-\sinh\left(k_nL-\sinh\left(k_nL\right)\right)\right]\left[\sin\left(k_nx\right)-\sinh\left(k_nx\right)\right]\right)\cos\left(
+\omega_nt\right)
+\]`
+
 ---
 ## 棒の曲げ振動
 
