@@ -132,6 +132,14 @@ h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
 \left[\dfrac{d^3h}{dx^3}\right]_{x=L}=0
 \]`
 
+`\[
+h = \left(A\left(\cos\left(kx\right)-\cosh\left(kx\right)\right)+B\left(\sin\left(kx\right)-\sinh\left(kx\right)\right)\right)\cos\left(\omega t\right)
+\]`
+
+`\[
+\cos\left(kL\right)\cosh\left(kL\right)=-1
+\]`
+
 ### 波数と振動数の固有値
 
 ### 最小固有値
