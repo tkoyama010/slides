@@ -120,6 +120,10 @@ h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\rig
 
 ### 一端が固定支持され他端が自由である
 
+`\[
+h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
+\]`
+
 ### 波数と振動数の固有値
 
 ### 最小固有値
