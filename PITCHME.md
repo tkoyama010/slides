@@ -214,6 +214,14 @@ k = k_n = \dfrac{\left(2n+1\right)\pi}{L}
 
 ### 両端が単純支持
 
+`\[
+h\left(0\right) = \left[\dfrac{d^2h}{dx^2}\right]_{x=0} = 0
+\]`
+
+`\[
+h\left(L\right) = \left[\dfrac{d^2 h}{dx^2}\right]_L = 0
+\]`
+
 ### 波数と振動数の固有値
 
 ### 最小固有値
