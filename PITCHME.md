@@ -174,6 +174,17 @@ h\left(L\right) = \left[\dfrac{dh}{dx}\right]_{x=L} = 0
 
 ### 最小固有値
 
+`\[
+k_{\min} = k_1 = \dfrac{4.73}{L}
+\]`
+
+`\[
+\omega_{\min} = bk_{\min}^2 = \dfrac{22.4}{L^2}\sqrt{\dfrac{B}{\rho S}}
+\]`
+
+`\[
+\]`
+
 ---
 ## 棒の曲げ振動(例題4-2)
 
