@@ -222,9 +222,25 @@ h\left(0\right) = \left[\dfrac{d^2h}{dx^2}\right]_{x=0} = 0
 h\left(L\right) = \left[\dfrac{d^2 h}{dx^2}\right]_L = 0
 \]`
 
+`\[
+\sin\left(kL\right) = 0
+\]`
+
 ### 波数と振動数の固有値
 
-### 最小固有値
+`\[
+k = k_n = \dfrac{n\pi}{L} \left(n \in \mathbb{N}\right)
+\]`
+
+`\[
+\omega = \omega_n = bk_{n}^2 = \left(\dfrac{n \pi}{L}\right)^2 \sqrt{\dfrac{B}{\rho S}}
+\]`
+
+### 曲げ振動波形
+
+`\[
+h = A \sin\left(k_n x\right)\cos\left(\omega_n t\right)
+\]`
 
 ---
 ## 演習問題
