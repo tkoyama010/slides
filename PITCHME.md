@@ -183,6 +183,7 @@ k_{\min} = k_1 = \dfrac{4.73}{L}
 \]`
 
 `\[
+h = A\left(\left[\sin\left(k_n L\right)-\sinh\left(k_n L\right)\right]\left[\cos\left(k_n x\right)-\cosh\left(k_n x\right)\right]-\left[\cos\left(k_n L\right)-\cosh\left(k_n L\right)\left(\sin\left(k_n x\right)-\sinh\left(k_n x\right)\right)\right]\right)
 \]`
 
 ---
