@@ -189,9 +189,25 @@ h = A\left(\left[\sin\left(k_n L\right)-\sinh\left(k_n L\right)\right]\left[\cos
 ---
 ## 棒の曲げ振動(例題4-2)
 
+`\[
+u = a\sin\left(kx\right)
+\]`
+
 ### 一端が固定支持され他端が自由である
 
+`\[
+\dfrac{\partial u}{\partial x} = 0
+\]`
+
+`\[
+k = k_n = \dfrac{\left(2n+1\right)\pi}{L}
+\]`
+
 ### 棒の伸縮振動の固有振動数
+
+`\[
+\omega = \omega_n = k_n c_{l\left(rod\right)} = \dfrac{\left(2n+1\right)\pi}{2L}\sqrt{\dfrac{Y}{\rho}}
+\]`
 
 ---
 ## 棒の曲げ振動(例題4-3)
