@@ -49,6 +49,7 @@ F_{x}\left(x\right) = -T \cos \theta = -T
 `\[
 F_{x}\left(x+\delta x\right) = -T \cos \left(\theta + \delta \theta\right) = -T
 \]`
+ 
 
 ---
 ## 弦の方程式
@@ -92,12 +93,61 @@ c = \sqrt{\dfrac{T}{\rho S}}
 ---
 ## 弦の波
 
+ダランベールの解
+
+$f$: 正方向の波
+
+$g$: 負方向の波
+
 `\[
 h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
 \]`
+
+ 
+
+ 
+
+---
+## 弦の波 (数学的解釈)
+
+ダランベールの解(三角関数の複素表示)
+
+$f$: 正方向の波
+
+$g$: 負方向の波
+
 `\[
 h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
 \]`
+
+$A$, $B$: 複素定数
+
+$k$: 実定数
+
+ 
+
+ 
+
+---
+## 弦の波 (物理的解釈)
+
+ダランベールの解(三角関数の複素表示)
+
+$f$: 正方向の波
+
+$g$: 負方向の波
+
+`\[
+h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
+\]`
+
+$A$, $B$: 部分波の複素振幅
+
+$k$: 波数
+
+$\lambda\left(=\dfrac{2\pi}{k}\right)$: 波数
+
+$\omega\left(=kc\right)$: 振動数
 
 ---
 ## 弦の正弦振動
