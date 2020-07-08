@@ -103,14 +103,6 @@ $g$: 負方向の波
 h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
 \]`
 
- 
-
- 
-
- 
-
- 
-
 ---
 ## 弦の波 (数学的解釈)
 
@@ -123,10 +115,6 @@ h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\lef
 $A$, $B$: 複素定数
 
 $k$: 実定数
-
- 
-
- 
 
 ---
 ## 弦の波 (物理的解釈)
@@ -163,6 +151,24 @@ h \left(0, t \right) = h \left(L, t \right) = 0
 
 `\[
 h = A\exp\left(ikx\right)\left(\exp\left(-ikct\right)+\exp\left(+ikct\right)\right) = 2A\cos\left(kct\right)
+\]`
+
+---
+## 弦の正弦振動
+
+実在波(実部)のみ条件を満たせば良い。
+
+`\[
+A\exp\left(ikx\right) = \left(A_r + iA_i\right)\left(\cos\left(kx\right)+i\sin\left(kx\right)\right)
+\]`
+
+---
+## 弦の正弦振動
+
+実在波(実部)のみ条件を満たせば良い。
+
+`\[
+A\exp\left(ikx\right) = \left(A_r\cos\left(kx\right)-A_i\sin\left(kx\right)\right)+i\left(A_r\sin\left(kx\right)+A_i\cos\left(kx\right)\right)
 \]`
 
 ---
