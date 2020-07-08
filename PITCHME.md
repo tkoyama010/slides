@@ -169,7 +169,7 @@ h = A\exp\left(ikx\right)\left(\exp\left(-ikct\right)+\exp\left(+ikct\right)\rig
 空間波形が一定で振幅だけが時間的に変化する**定在波** ($A=B$)で解を探す。
 
 `\[
-h = 2A\cos\left(kct\right)
+h = 2A\exp\left(ikx\right)\cos\left(kct\right)
 \]`
 
 ---
