@@ -38,7 +38,7 @@ F_{x}\left(x+\delta x\right) = -T
 $\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
 
 `\[
-\sin \theta = \tan \theta = \theta \\
+\sin \theta = \tan \theta = \theta
 \]`
 `\[
 \cos \theta = 0
