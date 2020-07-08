@@ -198,7 +198,7 @@ A_r = 0
 \]`
 
 `\[
-\sin\left(k \cdot L\right) = 0
+\sin\left(k \cdot L\right) = 0 \left(k = k_n = \dfrac{n\pi}{L}\right)
 \]`
 
 ---
