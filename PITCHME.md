@@ -160,7 +160,16 @@ h \left(0, t \right) = h \left(L, t \right) = 0
 空間波形が一定で振幅だけが時間的に変化する**定在波** ($A=B$)で解を探す。
 
 `\[
-h = A\exp\left(ikx\right)\left(\exp\left(-ikct\right)+\exp\left(+ikct\right)\right) = 2A\cos\left(kct\right)
+h = A\exp\left(ikx\right)\left(\exp\left(-ikct\right)+\exp\left(+ikct\right)\right)
+\]`
+
+---
+## 弦の正弦振動
+
+空間波形が一定で振幅だけが時間的に変化する**定在波** ($A=B$)で解を探す。
+
+`\[
+h = 2A\cos\left(kct\right)
 \]`
 
 ---
