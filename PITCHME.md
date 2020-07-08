@@ -116,10 +116,6 @@ h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
 
 ダランベールの解(三角関数の複素表示)
 
-$f$: 正方向の波
-
-$g$: 負方向の波
-
 `\[
 h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
 \]`
@@ -136,10 +132,6 @@ $k$: 実定数
 ## 弦の波 (物理的解釈)
 
 ダランベールの解(三角関数の複素表示)
-
-$f$: 正方向の波
-
-$g$: 負方向の波
 
 `\[
 h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
