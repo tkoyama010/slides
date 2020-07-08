@@ -242,11 +242,19 @@ $k_2 , k_3 \cdots$ に対応する波は高調波
 ## 弦の任意波形の振動
 
 `\[
+h = \sum^\infty_{n=0}a_n\sin\left(k_nx\right)\cos\left(k_nct\right)
+\]`
+
+`\[
 a_n = \dfrac{2}{L} \int^L_0 f\left(x\right) \sin\left(k_{n} x\right)dx
 \]`
 
 `\[
 h = \sum^\infty_{n=0} b_n \sin\left(k_n\right)\sin\left(k_nct\right)
+\]`
+
+`\[
+b_n = 
 \]`
 
 ---
