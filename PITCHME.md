@@ -107,6 +107,10 @@ h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
 
  
 
+ 
+
+ 
+
 ---
 ## 弦の波 (数学的解釈)
 
