@@ -65,7 +65,7 @@ $\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
 F_{y}\left(x\right) = -T \tan \theta = - T'\left(x\right)
 \]`
 `\[
-F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta) = T
+F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta\right) = T h' \left(x+\delta x\right)
 \]`
 
 ---
