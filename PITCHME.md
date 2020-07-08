@@ -53,6 +53,24 @@ F_{x}\left(x+\delta x\right) = -T \cos \left(\theta + \delta \theta\right) = -T
 ---
 ## 弦の方程式
 
+$\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
+
+`\[
+\sin \theta = \tan \theta = \theta
+\]`
+`\[
+\cos \theta = 0
+\]`
+`\[
+F_{y}\left(x\right) = -T \tan \theta = - T'\left(x\right)
+\]`
+`\[
+F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta) = T
+\]`
+
+---
+## 弦の方程式
+
 `\[
 \dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2}
 \]`
