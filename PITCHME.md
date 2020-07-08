@@ -148,13 +148,25 @@ $\omega\left(=kc\right)$: 振動数
 ---
 ## 弦の正弦振動
 
-`\[
-h \left(0, t \right) = 0
-\]`
+単純固定の条件
 
 `\[
-h \left(L, t \right) = 0
+h \left(0, t \right) = h \left(L, t \right) = 0
 \]`
+
+進行波はこの条件を満たせない。
+
+---
+## 弦の正弦振動
+
+空間波形が一定で振幅だけが時間的に変化する**定在波** ($A=B$)で解を探す。
+
+`\[
+h = A\exp\left(ikx\right)\left(\exp\left(-ikct\right)+\exp\left(+ikct\right)\right) = 2A\cos\left(kct\right)
+\]`
+
+---
+## 弦の正弦振動
 
 `\[
 h = a \sin\left(k_{n} x\right) \cos\left(k_{n} ct\right)
