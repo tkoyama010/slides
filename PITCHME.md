@@ -214,9 +214,20 @@ A_r = 0
 ---
 ## 弦の正弦振動
 
+固有関数
 `\[
 h = a \sin\left(k_{n} x\right) \cos\left(k_{n} ct\right)
 \]`
+
+$a \left(=-2A_i\right)$ : 振幅
+
+$k_n$ : $k$の固有値(固有波数) $\left(n = 0, 1, 2 \cdots \right)$
+
+$k_n c$ : 固有振動数
+
+$k_1$ の正弦解は基本波
+
+$k_2 , k_3 \cdots$ に対応する波は高調波 
 
 ---
 ## 弦の任意波形の振動
