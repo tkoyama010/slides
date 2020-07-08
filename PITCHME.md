@@ -103,6 +103,16 @@ $g$: 負方向の波
 h\left(x, t\right) = f\left(x-ct\right) + g\left(x+ct\right)
 \]`
 
+正方向の波と、負方向の波は以下のように式変形をすると分かりやすい。
+
+`\[
+f\left(x-c\left(t+\Delta t\right)\right) = f\left(\left(x-c\Delta t\right)-ct\right)
+\]`
+
+`\[
+g\left(x+c\left(t+\Delta t\right)\right) = f\left(\left(x+c\Delta t\right)-ct\right)
+\]`
+
 ---
 ## 弦の波 (数学的解釈)
 
