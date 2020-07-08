@@ -74,7 +74,11 @@ F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta\right) = T h' 
 ## 弦の方程式
 
 `\[
-\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = F_{y}\left(x\right) + F_{y}\left(x+\delta x\right) = T\left[h'\left(x+\delta x\right) - h'\left(x\right)\right]
+\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = F_{y}\left(x\right) + F_{y}\left(x+\delta x\right)
+\]`
+
+`\[
+\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = T\left[h'\left(x+\delta x\right) - h'\left(x\right)\right]
 \]`
 
 `\[
