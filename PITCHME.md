@@ -191,6 +191,19 @@ A\exp\left(ikx\right) = \left(A_r + iA_i\right)\left(\cos\left(kx\right)+i\sin\l
 ---
 ## 弦の正弦振動
 
+実在波(実部)のみ条件を満たせば良い。
+
+`\[
+A_r = 0
+\]`
+
+`\[
+\sin\left(k \cdot L\right) = 0
+\]`
+
+---
+## 弦の正弦振動
+
 `\[
 h = a \sin\left(k_{n} x\right) \cos\left(k_{n} ct\right)
 \]`
