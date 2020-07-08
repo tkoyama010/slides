@@ -43,6 +43,12 @@ $\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
 `\[
 \cos \theta = 0
 \]`
+`\[
+F_{x}\left(x\right) = -T \cos \theta = -T
+\]`
+`\[
+F_{x}\left(x+\delta x\right) = -T \cos \left(\theta + \delta \theta\right) = -T
+\]`
 
 ---
 ## 弦の方程式
