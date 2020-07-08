@@ -35,6 +35,15 @@ F_{x}\left(x+\delta x\right) = -T
 ---
 ## 弦の方程式
 
+$\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
+
+`\[
+\sin \theta = \tan \theta = \theta
+\]`
+
+---
+## 弦の方程式
+
 `\[
 \dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2}
 \]`
