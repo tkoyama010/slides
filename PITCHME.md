@@ -68,8 +68,14 @@ F_{y}\left(x\right) = -T \tan \theta = - T'\left(x\right)
 F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta\right) = T h' \left(x+\delta x\right)
 \]`
 
+運動方程式を使用すると
+
 ---
 ## 弦の方程式
+
+`\[
+\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = F_{y}\left(x\right) + F_{y}\left(x+\delta x\right) = T\left[h'\left(x+\delta x\right) - h'\left(x\right)\right]
+\]`
 
 `\[
 \dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2}
