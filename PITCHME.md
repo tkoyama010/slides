@@ -168,7 +168,11 @@ A\exp\left(ikx\right) = \left(A_r + iA_i\right)\left(\cos\left(kx\right)+i\sin\l
 実在波(実部)のみ条件を満たせば良い。
 
 `\[
-A\exp\left(ikx\right) = \left(A_r\cos\left(kx\right)-A_i\sin\left(kx\right)\right)+i\left(A_r\sin\left(kx\right)+A_i\cos\left(kx\right)\right)
+\Re\left(A\exp\left(ikx\right)\right) = A_r\cos\left(kx\right)-A_i\sin\left(kx\right) = 0
+\]`
+
+`\[
+\Im \left(A\exp\left(ikx\right)\right) = A_r\sin\left(kx\right)+A_i\cos\left(kx\right)
 \]`
 
 ---
