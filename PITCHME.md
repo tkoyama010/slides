@@ -30,6 +30,8 @@ F_{x}\left(x\right) = -T
 F_{x}\left(x+\delta x\right) = -T
 \]`
 
+![string.png](string.png)
+
 ---
 ## 弦の方程式
 
