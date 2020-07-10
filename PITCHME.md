@@ -369,6 +369,17 @@ y = h\left(x, t\right)
 ## 棒の曲げ変形波
 
 `\[
+\dfrac{\partial^2 h}{\partial t^2} = -b^2 \dfrac{\partial^4 h}{\partial x^4}
+\]`
+
+`\[
+b = \sqrt{\dfrac{B}{\rho S}}
+\]`
+
+---
+## 棒の曲げ変形波
+
+`\[
 h = h_1 + h_2
 \]`
 
