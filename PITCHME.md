@@ -135,7 +135,7 @@ $A$, $B$: 部分波の複素振幅
 
 $k$: 波数 (0以外の場合、状態量が位置に依存する)
 
-$\lambda\left(=\dfrac{2\pi}{k}\right)$: 波数
+$\lambda\left(=\dfrac{2\pi}{k}\right)$: 波長
 
 $\omega\left(=kc\right)$: 振動数
 
