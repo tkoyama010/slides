@@ -299,12 +299,26 @@ P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
 `\[
 \dfrac{\partial^2 u}{\partial t^2} = c_{l\left( rod \right)}^2 \dfrac{\partial u}{\partial x^2}
 \]`
+
 `\[
 c_{l\left( rod \right)} = \sqrt{\dfrac{Y}{\rho}} = \sqrt{\dfrac{\mu\left(3\lambda+2\mu\right)}{\left(\lambda+\mu\right)\rho}}
 \]`
 
 ---
 ## 棒の伸縮波
+
+`\[
+c_l^2 - c_{l\left(rod\right)}^2 = \dfrac{\lambda^2}{\left(\lambda+\mu\right)\rho} > 0
+\]`
+
+`\[
+c_t^2 - c_{l\left(rod\right)}^2 =  -\dfrac{\mu\left(2\lambda+\mu\right)}{\left(\lambda+\mu\right)\rho}< 0
+\]`
+
+$c_{l\left(rod\right)$ は $c_l$ と $c_t$ の中間にある。
+
+---
+## 棒の伸縮振動
 
 `\[
 u\left(0, t\right) = u\left(L, t\right) = 0
@@ -320,6 +334,14 @@ u = a \sin \left(k_n x\right) \cos \left(k_n c_{l\left(rod\right)} t\right)
 `\[
 y = h\left(x, t\right)
 \]`
+
+`\[
+\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = N\left(x+\delta x\right) - N\left(x\right)
+\]`
+
+---
+## 棒の曲げ変形波
+
 `\[
 h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\omega t\right)
 \]`
@@ -327,31 +349,64 @@ h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\rig
 ![rod.png](rod.png)
 
 ---
+## 棒の曲げ変形波
+
+`\[
+-M\left(x\right)+M\left(x+\delta x\right) + N \left(x+\delta x\right) \delta x = O\left(\left(\delta x\right)^3\right)
+\]`
+
+`\[
+\dfrac{\partial M}{\partial x} + N = 0
+\]`
+
+`\[
+\dfrac{\partial^3 h}{\partial x^3} + \dfrac{N}{B} = 0
+\]`
+
+---
+## 棒の曲げ変形波
+
+---
 ## 棒の曲げ振動
 
 ### 一端が固定支持され他端が自由である
+
+$x = 0$ では
 
 `\[
 h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
 \]`
 
-`\[
-\left[\dfrac{d^2h}{dx^2}\right]_{x=0}=0
-\]`
+$x = L$ では3階微分も0になることを要求する。
 
 `\[
-\left[\dfrac{d^3h}{dx^3}\right]_{x=L}=0
+\left[\dfrac{d^2h}{dx^2}\right]_{x=0} = \left[\dfrac{d^3h}{dx^3}\right]_{x=L} = 0
 \]`
+
+---
+## 棒の曲げ振動
+
+### 一端が固定支持され他端が自由である
+
+一般解にこれらの要件を要求すると。
 
 `\[
 h = \left(A\left(\cos\left(kx\right)-\cosh\left(kx\right)\right)+B\left(\sin\left(kx\right)-\sinh\left(kx\right)\right)\right)\cos\left(\omega t\right)
 \]`
 
+---
+## 棒の曲げ振動
+
+### 波数と振動数の固有値
+
+以下の式で決定される。
+
 `\[
 \cos\left(kL\right)\cosh\left(kL\right)=-1
 \]`
 
-### 波数と振動数の固有値
+---
+## 棒の曲げ振動
 
 ### 最小固有値
 
@@ -362,6 +417,9 @@ k_{\min} = k_1 = \dfrac{1.88}{L}
 `\[
 \omega_{\min} = bk_{\min}^2 = \dfrac{3.52}{L^2}\sqrt{\dfrac{B}{\rho S}}
 \]`
+
+---
+## 棒の曲げ振動
 
 `\[
 h = A\left(\left[\cos\left(k_nL\right) + \cosh\left(k_nL\right)\right]\left[\cos\left(k_nx\right)-\cosh\left(k_nx\right)\right]+\left[\sin\left(k_nL\right)-\sinh\left(k_nL-\sinh\left(k_nL\right)\right)\right]\left[\sin\left(k_nx\right)-\sinh\left(k_nx\right)\right]\right)\cos\left(
@@ -381,7 +439,19 @@ h\left(0\right) = \left[\dfrac{dh}{dx}\right]_{x=0} = 0
 h\left(L\right) = \left[\dfrac{dh}{dx}\right]_{x=L} = 0
 \]`
 
+---
+## 棒の曲げ振動
+
 ### 波数と振動数の固有値
+
+$k_n$ および $\omega_n$ は以下の式で決定される。
+
+`\[
+\cos\left(kL\right)\cosh\left(kL\right) = 1
+\]`
+
+---
+## 棒の曲げ振動
 
 ### 最小固有値
 
@@ -393,28 +463,36 @@ k_{\min} = k_1 = \dfrac{4.73}{L}
 \omega_{\min} = bk_{\min}^2 = \dfrac{22.4}{L^2}\sqrt{\dfrac{B}{\rho S}}
 \]`
 
+---
+## 棒の曲げ振動
+
+### 曲げ振動波形
+
 `\[
 h = A\left(\left[\sin\left(k_n L\right)-\sinh\left(k_n L\right)\right]\left[\cos\left(k_n x\right)-\cosh\left(k_n x\right)\right]-\left[\cos\left(k_n L\right)-\cosh\left(k_n L\right)\left(\sin\left(k_n x\right)-\sinh\left(k_n x\right)\right)\right]\right)
 \]`
 
 ---
-## 棒の曲げ振動(例題4-2)
+## 棒の伸縮振動(例題4-2)
 
 `\[
 u = a\sin\left(kx\right)
 \]`
 
-### 一端が固定支持され他端が自由である
+一端が固定支持され他端が自由である
 
 `\[
 \dfrac{\partial u}{\partial x} = 0
 \]`
 
+---
+## 棒の伸縮振動(例題4-2)
+
 `\[
 k = k_n = \dfrac{\left(2n+1\right)\pi}{L}
 \]`
 
-### 棒の伸縮振動の固有振動数
+棒の伸縮振動の固有振動数
 
 `\[
 \omega = \omega_n = k_n c_{l\left(rod\right)} = \dfrac{\left(2n+1\right)\pi}{2L}\sqrt{\dfrac{Y}{\rho}}
@@ -423,7 +501,7 @@ k = k_n = \dfrac{\left(2n+1\right)\pi}{L}
 ---
 ## 棒の曲げ振動(例題4-3)
 
-### 両端が単純支持
+両端が単純支持
 
 `\[
 h\left(0\right) = \left[\dfrac{d^2h}{dx^2}\right]_{x=0} = 0
@@ -437,7 +515,10 @@ h\left(L\right) = \left[\dfrac{d^2 h}{dx^2}\right]_L = 0
 \sin\left(kL\right) = 0
 \]`
 
-### 波数と振動数の固有値
+---
+## 棒の曲げ振動(例題4-3)
+
+波数と振動数の固有値
 
 `\[
 k = k_n = \dfrac{n\pi}{L} \left(n \in \mathbb{N}\right)
@@ -447,24 +528,22 @@ k = k_n = \dfrac{n\pi}{L} \left(n \in \mathbb{N}\right)
 \omega = \omega_n = bk_{n}^2 = \left(\dfrac{n \pi}{L}\right)^2 \sqrt{\dfrac{B}{\rho S}}
 \]`
 
-### 曲げ振動波形
+---
+## 棒の曲げ振動(例題4-3)
+
+境界条件
+
+`\[
+h\left(0\right) = \left[\dfrac{d^2 h}{dx^2}\right]_{x=0}
+\]`
+
+`\[
+h\left(L\right) = \left[\dfrac{d^2 h}{dx^2}\right]_{x=L}
+\]`
+
+波数と振動数の固有値
 
 `\[
 h = A \sin\left(k_n x\right)\cos\left(\omega_n t\right)
 \]`
 
----
-## 演習問題
-
-例題4-1で取り扱った物質からなる一様な棒を伝わる縦波の伝搬速度$c_l\left(rod\right)$を求めよ
-
-例題3-3で考えた半径1mm, 長さ20cm, ヤング率$21.0 \times 10^{10} \left( = N/m^2\rightの円形断面のピアノ線について、次の3通りの場合の曲げ振動の最小固有振動を求めよ。
-
-例題4-3で見たように, 両端が単純支持された棒の曲げ振動は, 2点間に張られた弦の横振動と, 微分方程式の境界値問題として全く同一であり, ただ, 分散関係だけが異なる。
-いま、棒と弦はともに長さが$L$、密度が$\rho$であり、棒の断面積は$S$、曲げ剛性は$B$、弦に働く引っ張り力は$T$であるとするとき,
-
-- 棒の固有振動数$\omega_n$と同じ固有振動数を与える弦の引っ張り力$T$を求めよ。
-
-- 前問2のピアノ線と同じ最小固有振動数$\omega_{\min}$を与える$T$の値を求めよ。 
-
----
