@@ -350,8 +350,6 @@ y = h\left(x, t\right)
 \rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = \dfrac{\partial N}{\partial x}
 \]`
 
-![rod.png](rod.png)
-
 ---
 ## 棒の曲げ変形波
 
