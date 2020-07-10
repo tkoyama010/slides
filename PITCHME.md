@@ -541,9 +541,17 @@ h\left(0\right) = \left[\dfrac{d^2 h}{dx^2}\right]_{x=0}
 h\left(L\right) = \left[\dfrac{d^2 h}{dx^2}\right]_{x=L}
 \]`
 
+---
+## 棒の曲げ振動(例題4-3)
+
+固有値方程式
+
+`\[
+\sin\left(kL\right) = 0
+\]`
+
 波数と振動数の固有値
 
 `\[
-h = A \sin\left(k_n x\right)\cos\left(\omega_n t\right)
+k = k_n = \dfrac{n\pi}{L} \left(n \in \mathbb{N}\right)
 \]`
-
