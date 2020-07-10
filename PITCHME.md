@@ -337,13 +337,6 @@ y = h\left(x, t\right)
 \rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = N\left(x+\delta x\right) - N\left(x\right)
 \]`
 
----
-## 棒の曲げ変形波
-
-`\[
-h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\omega t\right)
-\]`
-
 ![rod.png](rod.png)
 
 ---
@@ -363,6 +356,22 @@ h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\rig
 
 ---
 ## 棒の曲げ変形波
+
+`\[
+h = h_1 + h_2
+\]`
+
+空間的に周期的な項
+
+`\[
+h_1 = \left[A \cos\left(k x\right) + B \sin\left(k x\right)\right]\cos\left(\omega t\right)
+\]`
+
+空間的に非周期的な項
+
+`\[
+h_2 = \left[C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\omega t\right)
+\]`
 
 ---
 ## 棒の曲げ振動
