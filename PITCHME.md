@@ -252,7 +252,7 @@ h = \sum^\infty_{n=0} b_n \sin\left(k_n\right)\sin\left(k_nct\right)
 \]`
 
 `\[
-b_n = 
+b_n = ?
 \]`
 
 ---
