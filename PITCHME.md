@@ -282,6 +282,9 @@ P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
 \dfrac{\partial u_1}{\partial t} = \dfrac{1}{\rho} = \dfrac{Y}{\rho} \dfrac{\partial^2 r_1}{\partial x_1^2}
 \]`
 
+---
+## 棒の伸縮波
+
 この式の両辺を時間tで微分して、$\frac{\partial r_1}{\partial t} = u_1$を考慮すれば$u_1$に対する方程式が得られる。
 
 `\[
