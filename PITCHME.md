@@ -313,7 +313,7 @@ c_l^2 - c_{l\left(rod\right)}^2 = \dfrac{\lambda^2}{\left(\lambda+\mu\right)\rho
 c_t^2 - c_{l\left(rod\right)}^2 =  -\dfrac{\mu\left(2\lambda+\mu\right)}{\left(\lambda+\mu\right)\rho}< 0
 \]`
 
-$c_{l\left(rod\right)$ は $c_l$ と $c_t$ の中間にある。
+$c_{l}\left(rod\right)$ は $c_l$ と $c_t$ の中間にある。
 
 ---
 ## 棒の伸縮振動
