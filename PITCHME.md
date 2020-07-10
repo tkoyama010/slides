@@ -294,6 +294,8 @@ P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
 ---
 ## 棒の伸縮波
 
+一般化すると。次の**伸縮波**が得られる。
+
 `\[
 \dfrac{\partial^2 u}{\partial t^2} = c_{l\left( rod \right)}^2 \dfrac{\partial u}{\partial x^2}
 \]`
@@ -302,7 +304,7 @@ c_{l\left( rod \right)} = \sqrt{\dfrac{Y}{\rho}} = \sqrt{\dfrac{\mu\left(3\lambd
 \]`
 
 ---
-## 棒の伸縮振動
+## 棒の伸縮波
 
 `\[
 u\left(0, t\right) = u\left(L, t\right) = 0
@@ -314,12 +316,15 @@ u = a \sin \left(k_n x\right) \cos \left(k_n c_{l\left(rod\right)} t\right)
 
 ---
 ## 棒の曲げ変形波
+
 `\[
 y = h\left(x, t\right)
 \]`
 `\[
 h = \left[A \cos\left(k x\right) + B \sin\left(k x\right) + C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\omega t\right)
 \]`
+
+![rod.png](rod.png)
 
 ---
 ## 棒の曲げ振動
