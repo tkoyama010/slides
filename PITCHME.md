@@ -93,7 +93,7 @@ c = \sqrt{\dfrac{T}{\rho S}}
 ---
 ## 弦の波
 
-ダランベールの解
+d'Alembertの解
 
 $f$: 正方向の波
 
@@ -116,7 +116,7 @@ g\left(x+c\left(t+\Delta t\right)\right) = f\left(\left(x+c\Delta t\right)-ct\ri
 ---
 ## 弦の波 (数学的解釈)
 
-ダランベールの解(三角関数の複素表示)
+d'Alembertの解(三角関数の複素表示)
 
 `\[
 h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
@@ -129,7 +129,7 @@ $k$: 実定数
 ---
 ## 弦の波 (物理的解釈)
 
-ダランベールの解(三角関数の複素表示)
+d'Alembertの解(三角関数の複素表示)
 
 `\[
 h\left(x, t\right) = A \exp\left[ik\left(x-ct\right)\right] + B \exp\left[ik\left(x+ct\right)\right]
