@@ -69,10 +69,10 @@ F_{y}\left(x\right) = -T \tan \theta = - T'\left(x\right)
 F_{y}\left(x+\delta x\right) = T \tan\left(\theta + \delta \theta\right) = T h' \left(x+\delta x\right)
 \]`
 
-運動方程式を使用すると
-
 ---
 ## 弦の方程式
+
+$y$方向の釣り合いについて運動方程式を使用すると
 
 `\[
 \rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = F_{y}\left(x\right) + F_{y}\left(x+\delta x\right)
