@@ -275,6 +275,9 @@ b_n =
 `\[
 P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
 \]`
+
+運動方程式に代入すると。
+
 `\[
 \dfrac{\partial^2 u}{\partial t^2} = c_{l\left( rod \right)}^2 \dfrac{\partial u}{\partial x^2}
 \]`
