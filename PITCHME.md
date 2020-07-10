@@ -374,6 +374,21 @@ h_2 = \left[C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\o
 \]`
 
 ---
+## 棒の曲げ変形波
+
+位相速度
+
+`\[
+c_b = \dfrac{\omega}{k} = bk
+\]`
+
+位相速度が一定でなく波数に依存する場合分散が発生する
+
+`\[
+c = c\left(k\right)
+\]`
+
+---
 ## 棒の曲げ振動
 
 ### 一端が固定支持され他端が自由である
