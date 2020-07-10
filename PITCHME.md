@@ -343,6 +343,19 @@ y = h\left(x, t\right)
 ## 棒の曲げ変形波
 
 `\[
+y = h\left(x, t\right)
+\]`
+
+`\[
+\rho S \delta x \dfrac{\partial^2 h}{\partial t^2} = \dfrac{\partial N}{\partial x}
+\]`
+
+![rod.png](rod.png)
+
+---
+## 棒の曲げ変形波
+
+`\[
 -M\left(x\right)+M\left(x+\delta x\right) + N \left(x+\delta x\right) \delta x = O\left(\left(\delta x\right)^3\right)
 \]`
 
