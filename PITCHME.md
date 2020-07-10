@@ -382,7 +382,7 @@ h_2 = \left[C \cosh\left(k x\right) + D \sinh\left(k x\right)\right]\cos\left(\o
 c_b = \dfrac{\omega}{k} = bk
 \]`
 
-位相速度が一定でなく波数に依存する場合分散が発生する
+位相速度が一定でなく波数に依存する場合**分散**が発生する
 
 `\[
 c = c\left(k\right)
