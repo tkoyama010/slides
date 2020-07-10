@@ -27,7 +27,7 @@ F_{x}\left(x\right) = -T
 \]`
 
 `\[
-F_{x}\left(x+\delta x\right) = -T
+F_{x}\left(x+\delta x\right) = T
 \]`
 
 ![string.png](string.png)
@@ -47,7 +47,7 @@ $\theta$は微小量であり、$\theta$の2次以上の微小量を無視する
 F_{x}\left(x\right) = -T \cos \theta = -T
 \]`
 `\[
-F_{x}\left(x+\delta x\right) = -T \cos \left(\theta + \delta \theta\right) = -T
+F_{x}\left(x+\delta x\right) = T \cos \left(\theta + \delta \theta\right) = T
 \]`
  
 
