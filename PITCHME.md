@@ -83,11 +83,7 @@ $y$方向の釣り合いについて運動方程式を使用すると
 \]`
 
 `\[
-\dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2}
-\]`
-
-`\[
-c = \sqrt{\dfrac{T}{\rho S}}
+\dfrac{\partial^2 h}{\partial t^2} = c^2 \dfrac{\partial^2 h}{\partial x^2} \left(c = \sqrt{\dfrac{T}{\rho S}}\right)
 \]`
 
 ---
