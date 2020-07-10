@@ -276,7 +276,20 @@ b_n =
 P_{11} = YE_{11} = Y\dfrac{\partial \gamma_1}{\partial x_1}
 \]`
 
-運動方程式に代入すると。
+外力を無視した運動方程式に代入すると。
+
+`\[
+\dfrac{\partial u_1}{\partial t} = \dfrac{1}{\rho} = \dfrac{Y}{\rho} \dfrac{\partial^2 r_1}{\partial x_1^2}
+\]`
+
+この式の両辺を時間tで微分して、$\frac{\partial r_1}{\partial t} = u_1$を考慮すれば$u_1$に対する方程式が得られる。
+
+`\[
+\dfrac{\partial^2 u_1}{\partial t^2} = \dfrac{Y}{\rho} \dfrac{\partial^2 u_1}{\partial x^2}
+\]`
+
+---
+## 棒の伸縮波
 
 `\[
 \dfrac{\partial^2 u}{\partial t^2} = c_{l\left( rod \right)}^2 \dfrac{\partial u}{\partial x^2}
