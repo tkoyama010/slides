@@ -12,7 +12,7 @@
 \]`
 
 ただし、$\tau=\varepsilon^{3/2}t$ 、 $c_{0}=\sqrt{gh}$ 、 $g$ は重力加速度、 $h$ は水深、
-$\xi$ 。
+$\xi=\varepsilon^{1/2}$ 。
 
 ---
 # 音波
