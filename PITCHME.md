@@ -14,6 +14,12 @@
 ただし、$\tau=\varepsilon^{3/2}t$ 、 $c_{0}=\sqrt{gh}$ 、 $g$ は重力加速度、 $h$ は水深、$\xi=\varepsilon^{1/2}\left(x-c0t\right)$ 。
 
 ---
+## KdV方程式(最掲)
+
+- クノイド波
+- 孤立波
+
+---
 # 音波
 
 @tkoyama010
