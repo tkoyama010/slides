@@ -5,6 +5,8 @@
 ---
 ## KdV方程式(最掲)
 
+非線形浅水長波の壁の第1近似 $\eta^{\left(1\right)}$に対する方程式
+
 `\[
 \dfrac{\partial\eta^{\left(1\right)}}{\partial\tau}+\dfrac{3c_{0}}{2h}\eta^{\left(1\right)}\dfrac{\partial\eta^{\left(1\right)}}{\partial\xi}=-\dfrac{c_{0}h^{2}}{6}\dfrac{\partial^{3}\eta^{\left(1\right)}}{\partial\xi^{3}}
 \]`
