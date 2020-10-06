@@ -11,7 +11,7 @@
 \dfrac{\partial\eta^{\left(1\right)}}{\partial\tau}+\dfrac{3c_{0}}{2h}\eta^{\left(1\right)}\dfrac{\partial\eta^{\left(1\right)}}{\partial\xi}=-\dfrac{c_{0}h^{2}}{6}\dfrac{\partial^{3}\eta^{\left(1\right)}}{\partial\xi^{3}}
 \]`
 
-ただし、$\tau=\varepsilon^{3/2}t$、$c_{0}=\sqrt{gh}$、$g$は重力加速度、$h$は水深、$\xi=\varepsilon^{1/2}\left(x-c_{0}t\right)$。
+ただし、$\tau=\varepsilon^{3/2}t$ 、 $c_{0}=\sqrt{gh}$ 、 $g$ は重力加速度、 $h$ は水深、 $\xi=\varepsilon^{1/2}\left(x-c_{0}t\right)$ 。
 
 ---
 # 音波
