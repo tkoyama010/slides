@@ -20,7 +20,7 @@
 - 孤立波
 
 ---
-## KdV方程式の初期条件
+## KdV方程式の解
 
 初期条件が
 `\[
@@ -33,6 +33,13 @@ u\left(x,0\right)=\cos\left(\pi x\right)
 の解は
 `\[
 u=\cos\left[\pi\left(x-ut\right)\right]
+\]`
+
+---
+## KdV方程式の解
+
+`\[
+u\left(x,0\right)=Usech^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\mu}{U}}
 \]`
 
 ---
