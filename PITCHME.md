@@ -35,10 +35,13 @@ u\left(x,0\right)=\cos\left(\pi x\right)
 u=\cos\left[\pi\left(x-ut\right)\right]
 \]`
 
+---
+## KdV方程式
+
 カタストロフ(catastrophe)
 
 ---
-## KdV方程式の解
+## KdV方程式
 
 `\[
 u\left(x,0\right)=Usech^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\mu}{U}}
