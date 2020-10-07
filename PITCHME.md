@@ -56,6 +56,12 @@ u\left(x,0\right)=Usech^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\mu}{U}}
 @tkoyama010
 
 ---
+## 音波
+
+- 内部波
+- 音波
+
+---
 # 有限振幅波
 
 @tkoyama010
