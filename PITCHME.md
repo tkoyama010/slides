@@ -35,6 +35,8 @@ u\left(x,0\right)=\cos\left(\pi x\right)
 u=\cos\left[\pi\left(x-ut\right)\right]
 \]`
 
+カタストロフ(catastrophe)
+
 ---
 ## KdV方程式の解
 
