@@ -22,13 +22,11 @@
 ---
 ## KdV方程式の初期条件
 
+初期条件が
 `\[
 u\left(x,0\right)=\cos\left(\pi x\right)
 \]`
-
----
-## KdV方程式の初期条件
-
+のとき、
 `\[
 \left.\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\mu\dfrac{\partial^{3}u}{\partial x^{3}}\right|_{\mu=0}=\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}=0
 \]`
