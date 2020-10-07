@@ -20,6 +20,13 @@
 - 孤立波
 
 ---
+## KdV方程式の初期条件
+
+`\[
+u\left(x,0\right)=\cos\left(\pi x\right)
+\]`
+
+---
 # 音波
 
 @tkoyama010
