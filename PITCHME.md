@@ -48,6 +48,9 @@ u\left(x,0\right)=Usech^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\mu}{U}}
 \]`
 
 ---
+## ソリトン
+
+---
 # 音波
 
 @tkoyama010
