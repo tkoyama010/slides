@@ -61,6 +61,13 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 - 内部波
 - 音波
 
+`\[
+\dfrac{\partial\rho}{\partial t}+\mathrm{div}\left(\rho\boldsymbol{u}\right)=0
+\]`
+`\[
+\dfrac{D\boldsymbol{u}}{Dt}=-\dfrac{1}{\rho}\mathrm{grad}p
+\]`
+
 ---
 # 有限振幅波
 
