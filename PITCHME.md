@@ -88,6 +88,23 @@ a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{0}}
 \]`
 
 ---
+## 音波
+
+圧縮率
+`\[
+\dfrac{1}{\rho}\dfrac{d\rho}{dp}
+\]`
+流体が理想気体である場合の状態方程式は
+`\[
+p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
+\]`
+ただし、
+$S_{0}$は静止状態におけるエントロピー$S$の値
+$\gamma=c_{p}/c_{V}$は比熱の比
+$c_{P}$は定圧比熱
+$c_{V}$は定積比熱
+
+---
 # 有限振幅波
 
 @tkoyama010
