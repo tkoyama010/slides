@@ -99,7 +99,7 @@ a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{0}}
 p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
 \]`
 ただし、
-$S_{0}$は静止状態におけるエントロピー$S$の値
+$S0$は静止状態におけるエントロピー$S$の値
 $\gamma=c_{p}/c_{V}$は比熱の比
 $c_{P}$は定圧比熱
 $c_{V}$は定積比熱
