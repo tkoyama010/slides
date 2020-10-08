@@ -117,6 +117,17 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \]`
 
 ---
+## 音波
+
+波が空間的に1方向に変化する平面波
+`\[
+\dfrac{\partial\rho}{\partial t}+\rho_{0}\dfrac{\partial u}{\partial x}=0
+\]`
+`\[
+\dfrac{\partial u}{\partial t}+\dfrac{a_{0}^{2}}{\rho_{0}}\dfrac{\partial\rho}{\partial x}=0
+\]`
+
+---
 # 有限振幅波
 
 @tkoyama010
