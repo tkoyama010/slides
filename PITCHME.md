@@ -198,3 +198,20 @@ a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
 `\[
 \dfrac{\partial w}{\partial t}+u\dfrac{\partial w}{\partial x}+w\dfrac{\partial w}{\partial x}=-\dfrac{1}{\rho}\dfrac{\partial p}{\partial z}
 \]`
+一方、気体の有限振幅波に対する方程式は2次元形では、
+`\[
+\dfrac{\partial\rho}{\partial t}+\dfrac{\partial\left(\rho u\right)}{\partial u}+\dfrac{\partial\left(\rho w\right)}{\partial z}=0
+\]`
+`\[
+\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+w\dfrac{\partial u}{\partial z}=-\dfrac{1}{\rho}\dfrac{\partial p}{\partial x}
+\]`  
+`\[
+\dfrac{\partial w}{\partial t}+u\dfrac{\partial w}{\partial x}+w\dfrac{\partial w}{\partial z}=-\dfrac{1}{\rho}\dfrac{\partial p}{\partial z}
+\]`  
+$\gamma = 2$の断熱法則
+`\[
+p\wasypropto\rho^{2}
+\]` 
+- 跳ね水
+- 衝撃波
+- 浅底水槽の原理
