@@ -163,3 +163,13 @@ a=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{s}}
 `\[
 a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
 \]`
+
+---
+# 有限振幅波
+
+## 衝撃波
+
+---
+# 有限振幅波
+
+## 例題7-2
