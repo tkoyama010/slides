@@ -107,8 +107,13 @@ p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
 ---
 ## 音波
 
+断熱法則
 `\[
 p=C\rho^{\gamma}\left(C:\mathrm{const}\right)
+\]`
+が成り立つとき音速は
+`\[
+a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \]`
 
 ---
