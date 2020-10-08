@@ -177,3 +177,24 @@ a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
 `\[
 \dfrac{\partial u}{\partial x}+\dfrac{\partial w}{\partial z}=0
 \]`
+`\[
+\dfrac{\partial\eta}{\partial t}+u\dfrac{\partial\eta}{\partial x}+w\dfrac{\partial\eta}{\partial z}=0
+\]`
+`\[
+\dfrac{\partial\Phi}{\partial t}+\dfrac{1}{2}\left(u^{2}+w^{2}\right)=-q\eta
+\]`
+第1式と第2式を組み合わせると。
+`\[
+\dfrac{\partial\eta}{\partial t}+\dfrac{\partial\left(\eta u\right)}{\partial x}+\dfrac{\partial\left(\eta w\right)}{\partial z}=0
+\]`
+となり、また、第3式を$x$および$z$について微分し、渦なしの条件、
+`\[
+\left(\mathrm{rot}\boldsymbol{u}\right)_{y}=\dfrac{\partial u}{\partial z}-\dfrac{\partial w}{\partial x}=0
+\]`
+を考慮すると、
+`\[
+\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+w\dfrac{\partial u}{\partial z}=-g\dfrac{\partial\eta}{\partial x}
+\]`
+`\[
+\dfrac{\partial w}{\partial t}+u\dfrac{\partial w}{\partial x}+w\dfrac{\partial w}{\partial x}=-\dfrac{1}{\rho}\dfrac{\partial p}{\partial z}
+\]`
