@@ -100,9 +100,16 @@ p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
 \]`
 ただし、
 - $S0$は静止状態におけるエントロピー$S$の値
-- $\gamma=c_{p}/c_{V}$は比熱の比
+- $\gamma=cp/cV$は比熱の比
 - $c_{P}$は定圧比熱
 - $c_{V}$は定積比熱
+
+---
+## 音波
+
+`\[
+p=C\rho^{\gamma}\left(C:\mathrm{const}\right)
+\]`
 
 ---
 # 有限振幅波
