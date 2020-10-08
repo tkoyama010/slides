@@ -126,6 +126,10 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 `\[
 \dfrac{\partial u}{\partial t}+\dfrac{a_{0}^{2}}{\rho_{0}}\dfrac{\partial\rho}{\partial x}=0
 \]`
+両辺から$u$または$p$を消去すると。
+`\[
+\left(\dfrac{\partial^{2}}{\partial t^{2}}-a_{0}^{2}\dfrac{\partial^{2}}{\partial x^{2}}\right)\begin{pmatrix}\rho\\u\end{pmatrix}=0
+\]`
 
 ---
 # 有限振幅波
