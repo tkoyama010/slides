@@ -69,6 +69,25 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 \]`
 
 ---
+## 音波
+
+`\[
+\rho=f\left(p\right)
+\]`
+`\[
+\dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
+\]`
+
+両辺から速度$\boldsymbol{u}$を消去すれば、密度$\rho$に対する方程式が得られる。
+`\[
+\dfrac{\partial^{2}\rho}{\partial t^{2}}-a_{0}^{2}\Delta\rho=0
+\]`
+ただし、
+`\[
+a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{0}}
+\]`
+
+---
 # 有限振幅波
 
 @tkoyama010
