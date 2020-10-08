@@ -159,3 +159,7 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 `\[
 a=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{s}}
 \]`
+は局所的な圧力$p$と密度$\rho$に対する音速を表しており、理想気体に対しては、
+`\[
+a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
+\]`
