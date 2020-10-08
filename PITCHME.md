@@ -138,6 +138,7 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 `\[
 \begin{pmatrix}\rho\\u\end{pmatrix}\begin{pmatrix}x, & t\end{pmatrix}=f\left(x-a_{0}t\right)+g\left(x+a_{0}t\right)
 \]`
+ただし、$f$、$g$は任意関数。
 
 ---
 # 有限振幅波
