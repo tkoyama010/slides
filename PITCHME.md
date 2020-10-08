@@ -173,3 +173,7 @@ a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
 # 有限振幅波
 
 ## 例題7-2
+
+`\[
+\dfrac{\partial u}{\partial x}+\dfrac{\partial w}{\partial z}=0
+\]`
