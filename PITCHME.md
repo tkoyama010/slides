@@ -124,11 +124,12 @@ p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
 ---
 ## 音波
 
-断熱法則
+- 粘性のない完全流体は、熱伝導性のない断熱的な流体と考えることができる。
+- このとき、エントロピー $S$ は一定であり、状態方程式は**断熱法則**となる。
 `\[
 p=C\rho^{\gamma}\left(C:\mathrm{const}\right)
 \]`
-が成り立つとき音速は
+- 音速は、
 `\[
 a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \]`
@@ -136,14 +137,14 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 ---
 ## 音波
 
-波が空間的に1方向に変化する平面波
+- 波が空間的に1方向に変化する平面波
 `\[
 \dfrac{\partial\rho}{\partial t}+\rho_{0}\dfrac{\partial u}{\partial x}=0
 \]`
 `\[
 \dfrac{\partial u}{\partial t}+\dfrac{a_{0}^{2}}{\rho_{0}}\dfrac{\partial\rho}{\partial x}=0
 \]`
-両辺から$u$または$p$を消去すると。
+- 両辺から$u$または$p$を消去すると。
 `\[
 \left(\dfrac{\partial^{2}}{\partial t^{2}}-a_{0}^{2}\dfrac{\partial^{2}}{\partial x^{2}}\right)\begin{pmatrix}\rho\\u\end{pmatrix}=0
 \]`
@@ -151,11 +152,12 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 ---
 ## 音波
 
-一般解は
+- 一般解は
 `\[
 \begin{pmatrix}\rho\\u\end{pmatrix}\begin{pmatrix}x, & t\end{pmatrix}=f\left(x-a_{0}t\right)+g\left(x+a_{0}t\right)
 \]`
-ただし、$f$、$g$は任意関数。
+- ただし、$f$、$g$は任意関数。
+- 音波の要素波は、それぞれ波形に無関係に $\pm a_{0}$の位相速度で非分散的に伝搬する。
 
 ---
 # 有限振幅波
