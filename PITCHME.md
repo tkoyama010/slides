@@ -87,11 +87,11 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
-両辺から速度$\boldsymbol{u}$を消去すれば、密度$\rho$に対する方程式が得られる。
+- 両辺から速度$\boldsymbol{u}$を消去すれば、密度$\rho$に対する方程式が得られる。
 `\[
 \dfrac{\partial^{2}\rho}{\partial t^{2}}-a_{0}^{2}\Delta\rho=0
 \]`
-ただし、
+- ただし、
 `\[
 a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{0}}
 \]`
