@@ -67,13 +67,14 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 `\[
 \dfrac{D\boldsymbol{u}}{Dt}=-\dfrac{1}{\rho}\mathrm{grad}p
 \]`
+- 順圧関係式
+`\[
+\rho=f\left(p\right)
+\]`
 
 ---
 ## 音波
 
-`\[
-\rho=f\left(p\right)
-\]`
 `\[
 \dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
 \]`
