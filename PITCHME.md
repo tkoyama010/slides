@@ -168,12 +168,18 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\dfrac{a^{2}}{\rho}\dfrac{\partial\rho}{\partial x}=0
 \]`
 - 音波の場合の演算子$\partial/\partial t$が、$\partial/\partial t+u\partial/\partial x$で置き換えられている。
+
 ---
 # 有限振幅波
 
 ## 物理的矛盾
 - 音波の場合の演算子$\partial/\partial t$が、$\partial/\partial t+u\partial/\partial x$で置き換えられている。
 - 音波の場合の正負の要素波の位相速度$\pm a_{0}$が、有限振幅波では$u\pm a$となることを示唆している。
+
+---
+# 有限振幅波
+
+## 物理的矛盾
 - 例えば正の要素波では、各部分の進行速度$u+a$は$u$の大きいところでは大きく、小さいところでは小さくなる。
 - すなわち、ある時刻において負勾配の部分が無限大になってしまう。これは粘性と熱伝導性を無視したためである。
 
