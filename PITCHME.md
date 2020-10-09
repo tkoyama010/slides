@@ -23,17 +23,9 @@
 ---
 ## KdV方程式の解
 
-- 初期条件が
-`\[
-u\left(x,0\right)=\cos\left(\pi x\right)
-\]`
-- のとき、
+- 初期条件が $u\left(x,0\right)=\cos\left(\pi x\right)$ のとき、以下の式の解は $u=\cos\left[\pi\left(x-ut\right)\right]$
 `\[
 \left.\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\mu\dfrac{\partial^{3}u}{\partial x^{3}}\right|_{\mu=0}=\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}=0
-\]`
-- の解は
-`\[
-u=\cos\left[\pi\left(x-ut\right)\right]
 \]`
 
 ---
