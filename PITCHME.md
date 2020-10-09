@@ -58,12 +58,12 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
-- 内部波
-- 音波
-
+- 圧縮性流体である気体に存在する内部波
+- 連続方程式
 `\[
 \dfrac{\partial\rho}{\partial t}+\mathrm{div}\left(\rho\boldsymbol{u}\right)=0
 \]`
+- 運動方程式
 `\[
 \dfrac{D\boldsymbol{u}}{Dt}=-\dfrac{1}{\rho}\mathrm{grad}p
 \]`
