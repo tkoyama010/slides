@@ -75,6 +75,20 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
+- 一様な静止状態の場合
+`\[
+\rho=\rho_{0}=\mathrm{const}`
+\]`
+`\[
+p=p_{0}=\mathrm{const}
+\]`
+`\[
+\boldsymbol{u}=0
+\]`
+
+---
+## 音波
+
 `\[
 \dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
 \]`
