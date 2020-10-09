@@ -100,10 +100,18 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
-- 圧縮率
+- 流体の**圧縮率**は圧力 $p$ の変化に対応する密度 $rho$ の変化の割合で定義される。
 `\[
 \dfrac{1}{\rho}\dfrac{d\rho}{dp}
 \]`
+- すなわち
+`\[
+a_{0} \propto \dfrac{1}{\dfrac{1}{\rho}\dfrac{d\rho}{dp}}
+\]`
+
+---
+## 音波
+
 - 流体が理想気体である場合の状態方程式は
 `\[
 p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
