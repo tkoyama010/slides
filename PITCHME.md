@@ -160,6 +160,18 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 ---
 # 有限振幅波
 
+- 変動が微小ではなく有限の場合
+`\[
+\dfrac{\partial\rho}{\partial t}+u\dfrac{\partial\rho}{\partial x}+\rho\dfrac{\partial u}{\partial x}=0
+\]`
+`\[
+\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\dfrac{a^{2}}{\rho}\dfrac{\partial\rho}{\partial x}=0
+\]`
+- 音波の場合の演算子$\partial/\partial t$が、$\partial/\partial t+u\partial/\partial x$で置き換えられている。
+
+---
+# 有限振幅波
+
 ## 衝撃波
 
 ---
