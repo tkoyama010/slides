@@ -75,8 +75,8 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
-- 一様な静止状態の場合$\rho=\rho_{0}=\mathrm{const}$, $p=p_{0}=\mathrm{const}$, $\boldsymbol{u}=0$
-- 微小量$\rho-\rho_{0}$、$p-p_{0}$および$\boldsymbol{u}$について2次の項を無視した方程式に従う。
+- 一様な静止状態の場合$\rho=\rho0=\mathrm{const}$, $p=p0=\mathrm{const}$, $\boldsymbol{u}=0$
+- 微小量$\rho-\rho0$、$p-p0$および$\boldsymbol{u}$について2次の項を無視した方程式に従う。
 `\[
 \dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
 \]`
