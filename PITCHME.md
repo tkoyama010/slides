@@ -153,7 +153,7 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \dfrac{\partial\rho}{\partial t}+u\dfrac{\partial\rho}{\partial x}+\rho\dfrac{\partial u}{\partial x}=0
 \]`
 `\[
-\dfrac{\partial u}{\partial t}+u\dfrac{\partial\rho}{\partial x}+\rho\dfrac{\partial u}{\partial x}=0
+\dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\dfrac{a^{2}}{\rho}\dfrac{\partial\rho}{\partial x}=0
 \]`
 - ただし、$a=\sqrt{\left(dp/d\rho\right)s}$ は局所的な圧力$p$と密度$\rho$に対する音速を表しており、理想気体に対しては、$a=\sqrt{\left(\gamma p\right)/\rho}=\sqrt{\gamma RT}$
 
