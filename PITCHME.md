@@ -75,24 +75,17 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 ---
 ## 音波
 
-- 一様な静止状態の場合
-
+- 一様な静止状態の場合$\rho=\rho_{0}=\mathrm{const}$, $p=p_{0}=\mathrm{const}$, $\boldsymbol{u}=0$
+- 微小量$\rho-\rho_{0}$、$p-p_{0}$および$\boldsymbol{u}$について2次の項を無視した方程式に従う。
 `\[
-\rho=\rho_{0}=\mathrm{const}
+\dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
 \]`
 `\[
-p=p_{0}=\mathrm{const}
-\]`
-`\[
-\boldsymbol{u}=0
+\dfrac{\partial\boldsymbol{u}}{\partial t}=-\dfrac{1}{\rho_{0}}\left(\dfrac{dp}{d\rho}\right)_{0}\mathrm{grad}\rho
 \]`
 
 ---
 ## 音波
-
-`\[
-\dfrac{\partial\rho}{\partial t}+\rho_{0}\mathrm{div}\boldsymbol{u}=0
-\]`
 
 両辺から速度$\boldsymbol{u}$を消去すれば、密度$\rho$に対する方程式が得られる。
 `\[
