@@ -106,7 +106,7 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 \]`
 - すなわち
 `\[
-a_{0} \propto \dfrac{1}{\dfrac{1}{\rho}\dfrac{d\rho}{dp}}
+a_{0} \propto^{-1} \dfrac{1}{\rho}\dfrac{d\rho}{dp}
 \]`
 
 ---
