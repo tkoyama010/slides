@@ -94,27 +94,26 @@ u\left(x,0\right)=U\mathrm{sech}^{2}\left(\dfrac{x}{D}\right),D=\sqrt{\dfrac{12\
 `\[
 \dfrac{\partial^{2}\rho}{\partial t^{2}}-a_{0}^{2}\Delta\rho=0
 \]`
-- ただし、
-`\[
-a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{0}}
-\]`
+- ただし、$a_{0}=\sqrt{\left(\dfrac{dp}{d\rho}\right)0}$
+- この密度の波を**音波**といい、伝搬速度$a_{0}$を **音速** という。
+- 音波は縦波である。
 
 ---
 ## 音波
 
-圧縮率
+- 圧縮率
 `\[
 \dfrac{1}{\rho}\dfrac{d\rho}{dp}
 \]`
-流体が理想気体である場合の状態方程式は
+- 流体が理想気体である場合の状態方程式は
 `\[
 p=\rho^{T}\exp\left[\dfrac{S-S_{0}}{c_{V}}\right]
 \]`
-ただし、
-- $S0$は静止状態におけるエントロピー$S$の値
-- $\gamma=cp/cV$は比熱の比
-- $c_{P}$は定圧比熱
-- $c_{V}$は定積比熱
+- ただし、
+  - $S0$は静止状態におけるエントロピー$S$の値
+  - $\gamma=cp/cV$は比熱の比
+  - $c_{P}$は定圧比熱
+  - $c_{V}$は定積比熱
 
 ---
 ## 音波
