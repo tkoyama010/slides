@@ -168,7 +168,7 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 \dfrac{\partial u}{\partial t}+u\dfrac{\partial u}{\partial x}+\dfrac{a^{2}}{\rho}\dfrac{\partial\rho}{\partial x}=0
 \]`
 - 音波の場合の演算子$\partial/\partial t$が、$\partial/\partial t+u\partial/\partial x$で置き換えられている。
-
+- 音波の場合の正負の要素波の位相速度$\pm a_{0}$が、有限振幅波では$u\pm a$となることを示唆している。
 ---
 # 有限振幅波
 
