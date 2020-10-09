@@ -148,17 +148,14 @@ a_{0}=\sqrt{\dfrac{\gamma p_{0}}{\rho_{0}}}=\sqrt{\gamma RT_{0}}
 ---
 # 有限振幅波
 
-変動が微小ではなく有限の場合を考える。
+変動が微小ではなく有限の場合
 `\[
 \dfrac{\partial\rho}{\partial t}+u\dfrac{\partial\rho}{\partial x}+\rho\dfrac{\partial u}{\partial x}=0
 \]`
 `\[
 \dfrac{\partial u}{\partial t}+u\dfrac{\partial\rho}{\partial x}+\rho\dfrac{\partial u}{\partial x}=0
 \]`
-ただし、
-`\[
-a=\sqrt{\left(\dfrac{dp}{d\rho}\right)_{s}}
-\]`
+ただし、$a=\sqrt{\left(\dfrac{dp}{d\rho}\right)s}$
 は局所的な圧力$p$と密度$\rho$に対する音速を表しており、理想気体に対しては、
 `\[
 a=\sqrt{\dfrac{\gamma p}{\rho}}=\sqrt{\gamma RT}
